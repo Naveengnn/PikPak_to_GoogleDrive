@@ -1,2 +1,7 @@
-# PikPak_to_GoogleDrive
-Mirror files and folders from PikPak to Google Drive to eaisly download files with programs like Jdownloader
+# Usage
+Click on the "Open in Colab" button.
+<a href="https://github.com/HongYue1/PikPak_to_GoogleDrive/blob/main/PikPak_Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+# Criedt: 
+the tool used in this notebook: https://github.com/52funny/pikpakcli
